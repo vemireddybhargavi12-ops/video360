@@ -10,42 +10,42 @@ const Videos = () => {
     {
       id: 1,
       description: "Why you need to learn HTML & CSS IN 2025 | HTML & CSS for Beginners! 🚀",
-      thumbnail: "/images/video1.png",
+      thumbnail: "/assets//video1.png",
       views: "46 views",
       uploadTime: "2 Weeks ago",
     },
     {
       id: 2,
       description: "Major Things to Understand in HTML & CSS for Beginners! 🚀 | Web Development Basics",
-      thumbnail: "/images/video2.png",
+      thumbnail: "/assets//video2.png",
       views: "81 views",
       uploadTime: "2 Weeks ago",
     },
     {
       id: 3,
       description: "How to become a UI UX Designer in 2025 in Telugu? | UI UX Designer Career | Digit Institute",
-      thumbnail: "/images/video3.png",
+      thumbnail: "/assets//video3.png",
       views: "221 views",
       uploadTime: "3 Weeks ago",
     },
     {
       id: 4,
       description: "How to become a UI UX Designer in 2025? | UI UX Designer Career | UX Designer Salary | Digit",
-      thumbnail: "/images/video3.png",
+      thumbnail: "/assets//video3.png",
       views: "136 views",
       uploadTime: "1 Month ago",
     },
     {
       id: 5,
       description: "Digit Institute review by Student | Digit Institute | Learn, Grow, Succeed",
-      thumbnail: "/images/video4.png",
+      thumbnail: "/assets//video4.png",
       views: "240 views",
       uploadTime: "10 Months ago",
     },
     {
       id: 6,
       description: "Digit Institute is the Right Place for Full Stack Development | UI Development and SQL",
-      thumbnail: "/images/video5.png",
+      thumbnail: "/assets//video5.png",
       views: "853 views",
       uploadTime: "3 Years ago",
     },
@@ -76,7 +76,7 @@ const Videos = () => {
 
             <div className="channel-info d-flex justify-content-between align-items-center px-4 py-3">
               <div className="d-flex align-items-center">
-                <img src="/images/Sidebarimg1.png" alt="logo" className="digit-img" />
+                <img src="/assets//Sidebarimg1.png" alt="logo" className="digit-img" />
                 <div className="ps-2">
                   <strong className="text-danger">Digit Institute</strong>
                   <small className="d-block text-secondary" style={{ fontSize: '12px' }}>

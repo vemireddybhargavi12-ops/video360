@@ -12,7 +12,7 @@ const Watchvideos = () => {
       id: 1,
   
       description: "Why you need to learn HTML & CSS IN 2025 |  HTML & CSS for Beginners!",
-      thumbnail: "/images/video1.png",
+      thumbnail: "/assets//video1.png",
       views: "1M views",
       uploadTime: "2 days ago"
     },
@@ -20,7 +20,7 @@ const Watchvideos = () => {
       id: 2,
      
       description: "Exploring the beautiful landscapes of New Zealand.",
-      thumbnail: "/images/video2.png",
+      thumbnail: "/assets//video2.png",
       views: "500K views",
       uploadTime: "1 week ago"
     },
@@ -28,7 +28,7 @@ const Watchvideos = () => {
       id: 3,
      
       description: "In-depth review of the latest smartphone.",
-      thumbnail: "/images/video3.png",
+      thumbnail: "/assets//video3.png",
       views: "300K views",
       uploadTime: "3 days ago"
     },
@@ -36,7 +36,7 @@ const Watchvideos = () => {
       id: 4,
      
       description: "Learn to make delicious pasta from scratch.",
-      thumbnail: "/images/video4.png",
+      thumbnail: "/assets//video4.png",
       views: "200K views",
       uploadTime: "5 days ago"
     },
@@ -44,7 +44,7 @@ const Watchvideos = () => {
       id: 5,
    
         description: "Top plays from the latest esports.",
-        thumbnail: "/images/video5.png",
+        thumbnail: "/assets//video5.png",
         views: "800K views",
         uploadTime: "4 days ago"
     },
@@ -52,7 +52,7 @@ const Watchvideos = () => {
         id: 6,
        
         description: "A quick and effective home workout.",
-        thumbnail: "/images/video6.png",
+        thumbnail: "/assets//video6.png",
         views: "150K views",
         uploadTime: "1 day ago"
     },
@@ -60,7 +60,7 @@ const Watchvideos = () => {
         id: 7,
        
         description: "Creative DIY projects for home decor.",
-        thumbnail: "/images/video4.png",
+        thumbnail: "/assets//video4.png",
         views: "250K views",
         uploadTime: "2 weeks ago"
     },
@@ -68,7 +68,7 @@ const Watchvideos = () => {
         id: 8,
         
         description: "Official music video of the latest hit.",
-        thumbnail: "/images/video1.png",    
+        thumbnail: "/assets//video1.png",    
         views: "2M views",
         uploadTime: "3 weeks ago"
     }
