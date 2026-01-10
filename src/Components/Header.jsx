@@ -35,7 +35,7 @@ function Header({ toggleSidebar }) {
             </Button>
 
             <Link to="/">
-              <img src="Images/logo.png" alt="logo" width="30%" />
+              <img src="/images/logo.png" alt="logo" width="30%" />
             </Link>
           </Col>
 
@@ -104,7 +104,7 @@ function Header({ toggleSidebar }) {
                 }}
               >
                 <img
-                  src="Images/Digit_icon.png"
+                  src="/images/Digit_icon.png"
                   alt="Digitit"
                   className="mx-2"
                   width="25px"

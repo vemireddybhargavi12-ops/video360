@@ -10,7 +10,7 @@ const Channel = () => {
     {
       id: 1,
       name: "Tech Guru",
-      image: "Images/channel1.png",
+      image: "/images/channel1.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "1.2M",
@@ -19,7 +19,7 @@ const Channel = () => {
     {
       id: 2,
       name: "Travel Vlogs",
-      image: "Images/channel2.png",
+      image: "/images/channel2.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "800K",
@@ -28,7 +28,7 @@ const Channel = () => {
     {
       id: 3,
       name: "Foodie's Paradise",
-      image: "Images/channel3.png",
+      image: "/images/channel3.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "500K",
@@ -37,7 +37,7 @@ const Channel = () => {
     {
       id: 4,
       name: "Fitness Freak",
-      image: "Images/channel4.png",
+      image: "/images/channel4.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
@@ -46,7 +46,7 @@ const Channel = () => {
       {
       id: 5,
       name: "Fitness Freak",
-      image: "Images/channel5.png",
+      image: "/images/channel5.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
@@ -55,7 +55,7 @@ const Channel = () => {
       {
       id: 6,
       name: "Fitness Freak",
-      image: "Images/channel6.png",
+      image: "/images/channel6.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
@@ -64,7 +64,7 @@ const Channel = () => {
       {
       id: 7,
       name: "Fitness Freak",
-      image: "Images/channel7.png",
+      image: "/images/channel7.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
@@ -73,7 +73,7 @@ const Channel = () => {
       {
       id: 8,
       name: "Fitness Freak",
-      image: "Images/channel1.png",
+      image: "/images/channel1.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
@@ -82,7 +82,7 @@ const Channel = () => {
       {
       id: 9,
       name: "Fitness Freak",
-      image: "Images/channel2.png",
+      image: "/images/channel2.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
@@ -91,7 +91,7 @@ const Channel = () => {
       {
       id: 10,
       name: "Fitness Freak",
-      image: "Images/channel3.png",
+      image: "/images/channel3.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
@@ -100,7 +100,7 @@ const Channel = () => {
       {
       id: 11,
       name: "Fitness Freak",
-      image: "Images/channel4.png",
+      image: "/images/channel4.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
@@ -109,7 +109,7 @@ const Channel = () => {
       {
       id: 12,
       name: "Fitness Freak",
-      image: "Images/channel5.png",
+      image: "/images/channel5.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
@@ -126,7 +126,7 @@ const Channel = () => {
       id: 1,
   
       description: "Why you need to learn HTML & CSS IN 2025 |  HTML & CSS for Beginners!",
-      thumbnail: "Images/video1.png",
+      thumbnail: "/images/video1.png",
       views: "1M views",
       uploadTime: "2 days ago"
     },
@@ -134,7 +134,7 @@ const Channel = () => {
       id: 2,
      
       description: "Exploring the beautiful landscapes of New Zealand.",
-      thumbnail: "Images/video2.png",
+      thumbnail: "/images/video2.png",
       views: "500K views",
       uploadTime: "1 week ago"
     },
@@ -142,7 +142,7 @@ const Channel = () => {
       id: 3,
      
       description: "In-depth review of the latest smartphone.",
-      thumbnail: "Images/video3.png",
+      thumbnail: "/images/video3.png",
       views: "300K views",
       uploadTime: "3 days ago"
     },
@@ -150,7 +150,7 @@ const Channel = () => {
       id: 4,
      
       description: "Learn to make delicious pasta from scratch.",
-      thumbnail: "Images/video4.png",
+      thumbnail: "/images/video4.png",
       views: "200K views",
       uploadTime: "5 days ago"
     }

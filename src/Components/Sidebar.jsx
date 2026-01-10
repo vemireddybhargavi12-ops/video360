@@ -115,28 +115,28 @@ const Sidebar = ({ collapsed, overlay, active }) => {
         <li>
           <h6 className="ps-4">SUBSCRIPTION</h6>
           <Link to="/Subscription" className="sidebar-link">
-            <img className="sub-img" src="Images/channel1.png" alt="logo" />
+            <img className="sub-img" src="/images/channel1.png" alt="logo" />
             {!collapsed && <span>Your Life</span>}
           </Link>
         </li>
 
         <li>
           <Link to="/Subscription" className="sidebar-link">
-            <img className="sub-img" src="Images/channel2.png" alt="logo" />
+            <img className="sub-img" src="/images/channel2.png" alt="logo" />
             {!collapsed && <span>Unboxing</span>}
           </Link>
         </li>
 
         <li>
           <Link to="/Subscription" className="sidebar-link">
-            <img className="sub-img" src="Images/channel3.png" alt="logo" />
+            <img className="sub-img" src="/images/channel3.png" alt="logo" />
             {!collapsed && <span>Product/Service</span>}
           </Link>
         </li>
 
         <li>
           <Link to="/Subscription" className="sidebar-link">
-            <img className="sub-img" src="Images/channel4.png" alt="logo" />
+            <img className="sub-img" src="/images/channel4.png" alt="logo" />
             {!collapsed && <span>Gaming</span>}
           </Link>
         </li>

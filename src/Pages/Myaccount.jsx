@@ -16,14 +16,14 @@ const Myaccount = () => {
   ];
 
   const ChannelData = [
-    { id: 1, name: "Tech Guru", image: "/Images/channel1.png", subscribe:"Subscribe 1.4M", subscribers: "1.2M" },
-    { id: 2, name: "Travel Vlogs", image: "/Images/channel2.png", subscribe:"Subscribe 1.4M", subscribers: "800K" },
-    { id: 3, name: "Foodie's Paradise", image: "/Images/channel3.png", subscribe:"Subscribe 1.4M", subscribers: "500K" },
-    { id: 4, name: "Fitness Freak", image: "/Images/channel4.png", subscribe:"Subscribe 1.4M", subscribers: "300K" },
-    { id: 5, name: "Science Daily", image: "/Images/channel5.png", subscribe:"Subscribe 1.4M", subscribers: "150K" },
-    { id: 6, name: "Coding Hub", image: "/Images/channel6.png", subscribe:"Subscribe 1.4M", subscribers: "90K" },
-    { id: 7, name: "Art Studio", image: "/Images/channel7.png", subscribe:"Subscribe 1.4M", subscribers: "60K" },
-    { id: 8, name: "Book Reviews", image: "/Images/channel1.png", subscribe:"Subscribe 1.4M", subscribers: "30K" },
+    { id: 1, name: "Tech Guru", image: "//images/channel1.png", subscribe:"Subscribe 1.4M", subscribers: "1.2M" },
+    { id: 2, name: "Travel Vlogs", image: "//images/channel2.png", subscribe:"Subscribe 1.4M", subscribers: "800K" },
+    { id: 3, name: "Foodie's Paradise", image: "//images/channel3.png", subscribe:"Subscribe 1.4M", subscribers: "500K" },
+    { id: 4, name: "Fitness Freak", image: "//images/channel4.png", subscribe:"Subscribe 1.4M", subscribers: "300K" },
+    { id: 5, name: "Science Daily", image: "//images/channel5.png", subscribe:"Subscribe 1.4M", subscribers: "150K" },
+    { id: 6, name: "Coding Hub", image: "//images/channel6.png", subscribe:"Subscribe 1.4M", subscribers: "90K" },
+    { id: 7, name: "Art Studio", image: "//images/channel7.png", subscribe:"Subscribe 1.4M", subscribers: "60K" },
+    { id: 8, name: "Book Reviews", image: "//images/channel1.png", subscribe:"Subscribe 1.4M", subscribers: "30K" },
   ];
 
   return (

@@ -13,20 +13,15 @@ import Videos from './Pages/Videos';
 import Login from './Auth/Login';
 import UploadingDetails from './Pages/Uploadingdetails';
 
-
 function App() {
   return (
     <Router>
       <Routes>
-        {/* Default route -> Login */}
-       
-
-        {/* Main App Routes */}
         <Route path="/" element={<Login />} />
         <Route path="/Home" element={<Home />} />
         <Route path="/Channel" element={<Channel />} />
         <Route path="/Uploadvideo" element={<Uploadvideo />} />
-        <Route path='/Uploadingdetails' element={<UploadingDetails />} />
+        <Route path="/Uploadingdetails" element={<UploadingDetails />} />
         <Route path="/Categories" element={<Categories />} />
         <Route path="/Watchlater" element={<Watchlater />} />
         <Route path="/Settings" element={<Settings />} />
@@ -34,7 +29,8 @@ function App() {
         <Route path="/Videos" element={<Videos />} />
         <Route path="/Subscription" element={<Subscription />} />
 
-     
+      
+      
       </Routes>
     </Router>
   );

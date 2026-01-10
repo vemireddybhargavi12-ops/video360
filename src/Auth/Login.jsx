@@ -46,7 +46,7 @@ function Login() {
         {/* Logo & Heading */}
         <div className="text-center mb-4">
           <img
-            src="images/logo.png"
+            src="/images/logo.png"
             alt="Logo"
             className="img-fluid"
             style={{ maxHeight: "80px" }}

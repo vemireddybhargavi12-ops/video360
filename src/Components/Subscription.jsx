@@ -10,7 +10,7 @@ const Subscription = () => {
     {
       id: 1,
       name: "Tech Guru",
-      image: "Images/channel1.png",
+      image: "/images/channel1.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "1.2M",
@@ -19,7 +19,7 @@ const Subscription = () => {
     {
       id: 2,
       name: "Travel Vlogs",
-      image: "Images/channel2.png",
+      image: "/images/channel2.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "800K",
@@ -28,7 +28,7 @@ const Subscription = () => {
     {
       id: 3,
       name: "Foodie's Paradise",
-      image: "Images/channel3.png",
+      image: "/images/channel3.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "500K",
@@ -37,7 +37,7 @@ const Subscription = () => {
     {
       id: 4,
       name: "Fitness Freak",
-      image: "Images/channel4.png",
+      image: "/images/channel4.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
@@ -46,7 +46,7 @@ const Subscription = () => {
       {
       id: 5,
       name: "Fitness Freak",
-      image: "Images/channel5.png",
+      image: "/images/channel5.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
@@ -55,7 +55,7 @@ const Subscription = () => {
       {
       id: 6,
       name: "Fitness Freak",
-      image: "Images/channel6.png",
+      image: "/images/channel6.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
@@ -64,7 +64,7 @@ const Subscription = () => {
       {
       id: 7,
       name: "Fitness Freak",
-      image: "Images/channel7.png",
+      image: "/images/channel7.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
@@ -73,7 +73,7 @@ const Subscription = () => {
       {
       id: 8,
       name: "Fitness Freak",
-      image: "Images/channel1.png",
+      image: "/images/channel1.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
@@ -82,7 +82,7 @@ const Subscription = () => {
       {
       id: 9,
       name: "Fitness Freak",
-      image: "Images/channel2.png",
+      image: "/images/channel2.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
@@ -91,7 +91,7 @@ const Subscription = () => {
       {
       id: 10,
       name: "Fitness Freak",
-      image: "Images/channel3.png",
+      image: "/images/channel3.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
@@ -100,7 +100,7 @@ const Subscription = () => {
       {
       id: 11,
       name: "Fitness Freak",
-      image: "Images/channel4.png",
+      image: "/images/channel4.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
@@ -109,7 +109,7 @@ const Subscription = () => {
       {
       id: 12,
       name: "Fitness Freak",
-      image: "Images/channel5.png",
+      image: "/images/channel5.png",
       subscribe:"Subscribe 1.4M",
       title: "channel name",
       subscribers: "300K",
