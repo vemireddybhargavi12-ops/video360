@@ -1,0 +1,27 @@
+.channel-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.sub-button{
+  background-color: #1b1b1b;
+  border: 1px solid #ff253a;
+  border-radius: 2px;
+  color: #ff253a;
+  font-weight: normal;
+  font-size: 12px;
+  padding: 3px 10px;
+}
+
+.sub-button:hover {
+  background-color: rgb(252, 0, 0);
+  transform: scale(1.05);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3); 
+  color: white;
+}
+
+span{
+  text-decoration: none;
+}

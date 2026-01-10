@@ -1,0 +1,89 @@
+.video-text p{
+    font-size: 12px;
+}
+.video-text h5{
+    font-size: 14px;
+    font-weight: bold;
+}
+.img-card{
+    position: relative;
+}
+
+.video-link li{
+    text-decoration: none;
+}
+
+.img-card {
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.img-card:hover {
+  transform: scale(1.02);
+}
+
+.video-thumbnail {
+  position: relative;
+  overflow: hidden;
+}
+
+.video-thumbnail img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px 10px 0 0;
+}
+
+/* --- Overlay --- */
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: opacity 0.3s ease;
+}
+
+.video-thumbnail:hover .overlay {
+  opacity: 1;
+}
+
+/* --- Play Icon --- */
+.play-icon {
+  color: rgb(136, 136, 136);
+  font-size: 60px;
+  transition: transform 0.3s ease;
+}
+
+.overlay:hover .play-icon {
+  transform: scale(1.1);
+}
+
+/* --- Text Section --- */
+.video-content {
+  padding: 10px;
+}
+
+/* --- Existing hover effect --- */
+.video-thumbnail:hover .overlay {
+  opacity: 1;
+}
+
+/* --- Always visible on mobile --- */
+@media (max-width: 768px) {
+  .overlay {
+    opacity: 1 !important;
+  }
+}
+
+
+
+
+
